@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>gft</groupId>
+  <artifactId>grad</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150801.165002</timestamp>
+      <buildNumber>14</buildNumber>
+    </snapshot>
+    <lastUpdated>20150801165002</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20150801.165002-14</value>
+        <updated>20150801165002</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0-20150801.152057-10</value>
+        <updated>20150801152057</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20150726.093741-1</value>
+        <updated>20150726093741</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

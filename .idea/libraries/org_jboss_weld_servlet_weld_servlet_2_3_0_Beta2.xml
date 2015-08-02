@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.jboss.weld.servlet:weld-servlet:2.3.0.Beta2" type="repository">
+    <properties maven-id="org.jboss.weld.servlet:weld-servlet:2.3.0.Beta2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/weld/servlet/weld-servlet/2.3.0.Beta2/weld-servlet-2.3.0.Beta2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
