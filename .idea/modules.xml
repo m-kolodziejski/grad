@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GftGrad.iml" filepath="$PROJECT_DIR$/GftGrad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grad.iml" filepath="$PROJECT_DIR$/grad.iml" />
       <module fileurl="file://$PROJECT_DIR$/grad-model/grad-model.iml" filepath="$PROJECT_DIR$/grad-model/grad-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/grad-web/grad-web.iml" filepath="$PROJECT_DIR$/grad-web/grad-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grad-model/src/main/main.iml" filepath="$PROJECT_DIR$/grad-model/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grad-web/src/main/main1.iml" filepath="$PROJECT_DIR$/grad-web/src/main/main1.iml" />
     </modules>
   </component>
 </project>

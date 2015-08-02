@@ -12,16 +12,23 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
-      <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="grad-web" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GftGrad" target="1.7" />
-      <module name="intellijWorkspace" target="1.7" />
+      <module name="grad" target="1.7" />
+      <module name="grad-model" target="1.7" />
+      <module name="grad-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
